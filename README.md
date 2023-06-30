@@ -6,6 +6,9 @@ Copyright (c) 2020-2023 [Antmicro](https://www.antmicro.com)
 
 ![Jetson Nano Devboard](/img/jetson-nano-baseboard.png)
 
+![Jetson Nano Devboard](/img/A203-board.png)
+
+
 ## Overview
 
 This project contains open hardware design files for a baseboard supporting the NVIDIA Jetson Nano, Xavier NX and TX2 NX SoMs.

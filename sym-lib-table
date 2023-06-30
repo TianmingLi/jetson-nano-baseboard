@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 0)
   (lib (name "jetson-nano-baseboard")(type "KiCad")(uri "${KIPRJMOD}/lib/jetson-nano-baseboard.kicad_sym")(options "")(descr ""))
+  (lib (name "jetson-nano-baseboard-altium-import")(type "KiCad")(uri "${KIPRJMOD}/jetson-nano-baseboard-altium-import.kicad_sym")(options "")(descr ""))
 )

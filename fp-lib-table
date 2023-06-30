@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "jetson-nano-baseboard-footprints")(type "KiCad")(uri "${KIPRJMOD}/lib/jetson-nano-baseboard-footprints")(options "")(descr ""))
+  (lib (name "JLC_Footprint")(type "KiCad")(uri "${KIPRJMOD}/lib/jetson-nano-baseboard-footprints/JLC_Footprint.pretty")(options "")(descr ""))
 )
